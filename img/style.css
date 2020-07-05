@@ -1,0 +1,65 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(y88.jpg);
+     background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+     background width: inherit;
+    background-color: white;
+
+    }
+.clearfix:after{
+    content:".";
+    visibility: hidden;
+    display: block;
+    height: 0px;
+    clear: both;
+} 
+.logo{
+    width:100;
+    hight:100;
+    float: left;
+    
+}
+.main{
+    color:white;
+    float:right;
+    margin-top: 25px;
+}
+.main li{
+    color: white;
+    display: inline-block;
+    list-style:none; 
+    margin-left: 25px;
+}
+.main a{
+    color:white;
+}
+.abc-header{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    }
+.btn{
+    color: white;
+    display:inline-block;
+    padding: 10px 30px;
+    font-weight: lighter;
+    text-decoration:none;
+    text-transform: uppercase;
+    border border-radius: 20px;
+    transition:background color 0.2s,border 0.2s,color0.2s;
+    
+}
+.btn-full{
+    background-color: transparent; 
+    border:1px solid;
+}
+
+
+

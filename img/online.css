@@ -1,0 +1,26 @@
+body{
+    background-color: wheat;
+}
+header{
+    height: 50px;
+    background: purple;
+    width: 100%;
+      font-size:20px;
+    text-decoration-color: white;
+    line-height: 30px;
+    text-decoration-color: azure;
+    text-align: center;
+}
+
+.online{
+    margin: 10px 10px;
+}
+.gall{
+    margin: 10px 10px;
+}
+.gall img{
+    width:200px;
+    height: 250px;
+    padding: 5px;
+    
+}

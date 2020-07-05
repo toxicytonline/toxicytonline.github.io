@@ -1,0 +1,35 @@
+body{
+    font-family: sans-serif;
+    background-color: black;
+    
+}
+h1
+{
+    text-align:center;
+    color:forestgreen;
+    margin:30px 0 50px;
+}
+.gallery{
+    margin: 10px 10px;
+}
+.gallery img{
+    width:200px;
+    height: 250px;
+    padding: 5px;
+    
+}
+body{
+
+    text-decoration-color: white;
+}
+header{
+    height: 50px;
+    background: purple;
+    width: 100%;
+      font-size:20px;
+    text-decoration-color: white;
+    line-height: 30px;
+    text-decoration-color: antiquewhite;
+    text-align: center;
+}
+

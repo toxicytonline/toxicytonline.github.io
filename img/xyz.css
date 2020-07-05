@@ -1,0 +1,7 @@
+.{
+    margin:0;
+    padding: 0;
+}
+.main{
+   ackground-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(xy.jpg);
+}
